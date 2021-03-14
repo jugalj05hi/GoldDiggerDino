@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dino Platformer</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Bungee&family=DotGothic16&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <nav>Dino Platformer</nav>
+
+    <div ALIGN=CENTER>
+        <h2>Playthrough Trailer</h2>
+    </div>
+    <div ALIGN=CENTER><iframe width="560" height="315" src="https://www.youtube.com/embed/rLl9XBg7wSs" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe></div>
+
+
+    <div ALIGN=CENTER>
+        <h2> Images </h2>
+    </div>
+    <div ALIGN=CENTER>
+        <section><img src="photos/StartScreen.png"><img src="photos/dino2.png"><img src="photos/WinScreen.png">
+        </section>
+        <section><img src="photos/dino1.png"><img src="photos/GameOverScreen.png"><img src="photos/dino3.png">
+        </section>
+    </div>
+
+    <div ALIGN=CENTER>
+        <h2> Gameplay </h2>
+    </div>
+    <p>
+        The goal of the game is to collect as many coins as you can and reach the red flag! However, you must do this
+        while avoiding enemy characters. If you get hit by an enemy you will lose one life. Be careful you only have 3
+        lives! To move your character you can use WASD or the arrow keys, with w, up, and space bar being used to jump.
+        Also you can kill an enemy by jumping on top of them.</p>
+
+    <div ALIGN=CENTER>
+        <h2> Post Mortem </h2>
+    </div>
+    <p>Making this game has been a learning process for everyone, if we had more time we could have done a lot more.
+    </p>
+    <p>One of our biggest struggles was refactoring the code to use the Component Pattern. We underestimated how long
+        and tedious it would be, and that delayed the process of everything else that needed to be done, which left us
+        short on time. If we could we would have liked to spend more time fine tuning the physics component. We also
+        could have made child classes from game entity like main player, NPCS, collectable item, just to have more
+        separation of data types because at the moment we have game entity containing a lot of attributes that may not
+        be neccessary for all game entities.
+    </p>
+    <p> Besides that it would have been nice if we could have implemented more features. For example having a 2 player
+        option or making the character experience different effects from consuming different items like being able to
+        temporarily fly after consuming a feather or moving faster after consuming a potion. Another fun idea would have
+        been adding a character creator portion of the game where the user can choose different outfits or
+        colors for the dino.</p>
+
+
+    <div ALIGN=CENTER>
+        <h2> Project Files & Binaries </h2>
+    </div>
+    <p>The following libraries are needed in order to run the game: SDL2, SDL_Mixer, SDL_ttf, and SDL_image.</p>
+    <p>Run the following in order to build the executable <code> python build.py </code>. After you can run the
+        following to play the game <code> ./bin/game </code> .</p>
+    <p>Entire Project including Documentation: <a href="Game.zip">download project files</a></p>
+    <p>Binary for Mac OS: <a href="bin/game">download binary file</a> </p>
+
+
+</body>
+
+</html>
