@@ -1,1 +1,1 @@
-# dedida.github.io
+# Gold Digger Dino
