@@ -1,0 +1,4 @@
+<map id="ScoreDisplayComponent" name="ScoreDisplayComponent">
+<area shape="rect" id="node1" title="ScoreDisplayComponent class used to show a GameEntity&#39;s score." alt="" coords="5,80,172,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The interface class for different components to inherit." alt="" coords="44,5,133,32"/>
+</map>

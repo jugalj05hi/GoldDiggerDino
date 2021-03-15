@@ -1,0 +1,4 @@
+<map id="SoundComponent" name="SoundComponent">
+<area shape="rect" id="node1" title="SoundComponent class used to manage sound effects for GameEntity." alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The interface class for different components to inherit." alt="" coords="24,5,113,32"/>
+</map>

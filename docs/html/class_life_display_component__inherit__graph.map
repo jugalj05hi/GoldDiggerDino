@@ -1,0 +1,4 @@
+<map id="LifeDisplayComponent" name="LifeDisplayComponent">
+<area shape="rect" id="node1" title="LifeDisplayComponent class used to show character&#39;s HP." alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The interface class for different components to inherit." alt="" coords="38,5,127,32"/>
+</map>
