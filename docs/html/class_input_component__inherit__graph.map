@@ -1,0 +1,4 @@
+<map id="InputComponent" name="InputComponent">
+<area shape="rect" id="node1" title="InputComponent class used to change velocity due to keyboard input." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The interface class for different components to inherit." alt="" coords="20,5,109,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="The interface class for different components to inherit." alt="" coords="5,233,95,260"/>
+<area shape="rect" id="node2" href="$class_a_i_component.html" title="AIComponent class used to add movement to a NPC game entity." alt="" coords="175,5,277,32"/>
+<area shape="rect" id="node3" href="$class_a_i_graphics_component.html" title="GraphicsComponent class used to flip through frames for a GameEntity." alt="" coords="149,56,303,83"/>
+<area shape="rect" id="node4" href="$class_a_i_physics_component.html" title="PhysicsComponent class used manage a GameEntity&#39;s movement." alt="" coords="151,107,301,133"/>
+<area shape="rect" id="node5" href="$class_graphics_component.html" title="GraphicsComponent class used to flip through frames for a GameEntity." alt="" coords="155,157,297,184"/>
+<area shape="rect" id="node6" href="$class_input_component.html" title="InputComponent class used to change velocity due to keyboard input." alt="" coords="167,208,285,235"/>
+<area shape="rect" id="node7" href="$class_life_display_component.html" title="LifeDisplayComponent class used to show character&#39;s HP." alt="" coords="149,259,303,285"/>
+<area shape="rect" id="node8" href="$class_physics_component.html" title="PhysicsComponent class used manage a GameEntity&#39;s movement." alt="" coords="158,309,294,336"/>
+<area shape="rect" id="node9" href="$class_score_display_component.html" title="ScoreDisplayComponent class used to show a GameEntity&#39;s score." alt="" coords="143,360,309,387"/>
+<area shape="rect" id="node10" href="$class_sound_component.html" title="SoundComponent class used to manage sound effects for GameEntity." alt="" coords="163,411,289,437"/>
+<area shape="rect" id="node11" href="$class_tile_component.html" title="TileComponent class used to make tiles." alt="" coords="171,461,281,488"/>
+</map>

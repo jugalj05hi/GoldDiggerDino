@@ -1,0 +1,4 @@
+<map id="PhysicsComponent" name="PhysicsComponent">
+<area shape="rect" id="node1" title="PhysicsComponent class used manage a GameEntity&#39;s movement." alt="" coords="5,80,141,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The interface class for different components to inherit." alt="" coords="29,5,118,32"/>
+</map>

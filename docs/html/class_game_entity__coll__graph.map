@@ -1,0 +1,5 @@
+<map id="GameEntity" name="GameEntity">
+<area shape="rect" id="node1" title="Represents an interactable entity in the game that includes Main Character, NPC, Tiles ,..." alt="" coords="56,139,147,165"/>
+<area shape="rect" id="node2" href="$struct_vector2_d.html" title=" " alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node3" href="$class_entity_manager.html" title="EntityManager class that stores all entities within the game." alt="" coords="107,5,213,32"/>
+</map>
