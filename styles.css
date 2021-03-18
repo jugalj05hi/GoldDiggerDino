@@ -45,6 +45,13 @@ section{
 }
 
 p{
+    margin-left: auto ;
+    margin-right: auto;
+    width: 75%;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+li{
     margin-left: auto;
     margin-right: auto;
     width: 75%;
